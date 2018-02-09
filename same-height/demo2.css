@@ -4,7 +4,10 @@
   justify-content: center;
   line-height: 30px;
 }
-
+a {
+  text-decoration: none;
+  color: #333;
+}
 .container ul {
   list-style: none;
   margin: 0;
